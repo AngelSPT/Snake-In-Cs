@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe.config
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.pdb
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form1.resources
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Properties.Resources.resources
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.exe
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.pdb
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form2.resources
+C:\Users\User\source\repos\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form3.resources
+D:\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe.config
+D:\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe
+D:\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.pdb
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csprojAssemblyReference.cache
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form1.resources
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form2.resources
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form3.resources
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Properties.Resources.resources
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.GenerateResource.cache
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.CoreCompileInputs.cache
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.exe
+D:\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.pdb
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form1.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form2.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Form3.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0._5.Properties.Resources.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.exe
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\obj\Debug\Snake_v0.5.pdb
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe.config
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.exe
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\Snake_v0.5\Snake_v0.5\bin\Debug\Snake_v0.5.pdb
